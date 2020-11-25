@@ -5,8 +5,7 @@
 
 }
 html, body{
-    background-image: url("photo-1561501878-aabd62634533.jpg");
-    background-size: cover;
+     
     height: 100%;
     
 }
@@ -23,6 +22,11 @@ html, body{
    
    
  }
+ .title h2{
+    color: #0b5592;
+    margin: .2rem;
+    font-family: 'Nerko One', cursive;
+}
 
  .navbar{
     display: flex;
