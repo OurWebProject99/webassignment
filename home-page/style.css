@@ -117,7 +117,8 @@ body{
           text-align: left;
           padding: 10px;
           font-size: 20px;
-          color: #012b41;
+          color: #539292;
+          
 }
                     /* images */
 .row {
@@ -145,7 +146,7 @@ body{
                       
                       
 .text {
-            background-color: rgb(131, 127, 123);
+            background-color: rgb(49, 47, 45);
             padding: 10px;
     }
 .column h1{
