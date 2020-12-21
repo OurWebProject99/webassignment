@@ -1,5 +1,5 @@
 body{
-    background-color: #09494b;
+    background-color: #c3e6e7;
     
 }
 
@@ -106,7 +106,7 @@ body{
 
                      /* content */
 .content .name{
-    color: rgb(247, 241, 241);
+    color: rgb(2,57.73);
     text-align: center;
     font-size: 40px;
     font-family: 'Aclonica', sans-serif;
@@ -117,7 +117,7 @@ body{
           text-align: left;
           padding: 10px;
           font-size: 20px;
-          color: #539292;
+        
           
 }
                     /* images */
@@ -139,7 +139,7 @@ body{
                       
                       
 .row:after {
-            content: "";
+            content: "";s
             display: table;
             clear: both;
 }
